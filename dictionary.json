@@ -1,0 +1,22 @@
+{
+	'true': [
+		'true',
+		't',
+		'y',
+		'yes',
+		'yeah',
+                'yup',
+		'yep',
+		'certainly',
+		'uh-huh',
+		'why-not',
+		'certainly',
+		'definitely',
+		'gladly',
+		'okay',
+		'ok',
+		'surely',
+		'sure-thing',
+		'unquestionably'
+	]
+}
